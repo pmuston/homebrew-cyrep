@@ -1,5 +1,5 @@
 class Cyrep < Formula
-  desc "Turn graph data into Markdown shaped for LLM context, driven by YAML report definitions"
+  desc "Turn graph data into Markdown shaped for LLM context"
   homepage "https://github.com/pmuston/homebrew-cyrep"
   license "MIT"
 
